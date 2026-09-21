@@ -1,0 +1,16 @@
+{
+  "rows": 100002,
+  "columns": 23,
+  "duplicates": 0,
+  "missing_cells": 0,
+  "statuses": {
+    "Delivered": 85199,
+    "Cancelled": 9812,
+    "In Transit": 4991
+  },
+  "cities": 7,
+  "restaurants": 1000,
+  "drivers": 500,
+  "customers": 9000,
+  "items": 9
+}
